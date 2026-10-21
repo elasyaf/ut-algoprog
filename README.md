@@ -2,5 +2,6 @@
 
 Untuk melakukan compile
 ```
-javac -classpath Main.java
+cd tugas-2
+javac *
 ```
