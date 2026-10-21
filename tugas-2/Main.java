@@ -13,6 +13,7 @@ class LemburKaryawan {
             gajiPokok = 9_500_000;
         } else {
             // Gol != a,b,c
+            System.out.println("Golongan Tidak Valid");
             input.close();
             return;
         }
