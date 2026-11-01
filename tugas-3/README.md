@@ -30,24 +30,9 @@ yang disimpan pada Array `lembur` (`30, 32, 34, 36, 38`):
 javac Main.java
 ```
 
-> **Catatan:** pada kode saat ini nama class ditulis sebagai
-> `public class GajiKaryawan`, sedangkan nama file adalah `Main.java`.
-> Java mewajibkan nama `public class` sama dengan nama file, sehingga
-> proses compile akan gagal dengan pesan:
->
-> ```text
-> error: class GajiKaryawan is public, should be declared in a file named GajiKaryawan.java
-> ```
->
-> Agar dapat di-compile, ubah deklarasi class menjadi:
->
-> ```java
-> public class Main {
-> ```
-
 ## Menjalankan Program
 
-Setelah proses compile berhasil, jalankan program dengan:
+Setelah proses compile selesai, jalankan program dengan:
 
 ```bash
 java Main
