@@ -121,11 +121,11 @@ Masukkan Jam Lembur       : 3
 
 === RINCIAN GAJI ===
 Golongan      : B
-Gaji Pokok    : Rp. 6,500,000
+Gaji Pokok    : Rp. 6.500.000
 Jam Lembur    : 3 jam
 Persen Lembur : 34%
-Gaji Lembur   : Rp. 2,210,000
-Total Gaji    : Rp. 8,710,000
+Gaji Lembur   : Rp. 2.210.000
+Total Gaji    : Rp. 8.710.000
 ```
 
 Perhitungan:
